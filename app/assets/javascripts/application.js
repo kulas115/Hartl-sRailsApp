@@ -15,3 +15,9 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+$(function() {
+
+  $('#rails-logo-test').on('mouseover', function () {
+    $('.btn-primary').fadeOut(1000);
+  });
+});
