@@ -8,7 +8,7 @@
 ```
 Have a look at code.
 ```
-- One thing that is not deeply explained in this tutorial is markup language. This is perfect language with simple syntax used for writing documents. Github uses it, scientists used it, people are even writing books in it. Why not try yourself ?  
+- One thing that is not deeply explained in this tutorial is markdown markup language. This is perfect language with simple syntax used for writing documents. Github uses it, scientists used it, people are even writing books in it. Why not try yourself ?  
 
   [Interactive tutorial worth completing.](https://www.markdowntutorial.com/)  
 
