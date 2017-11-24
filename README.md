@@ -14,7 +14,7 @@ Have a look at code.
 
   Give it a try and you will be able to do all kind of cool things like (you can even attach images).  
 
-#### Below is rest of original readme create by Michael (leaving it here for completness and big props for author!)  
+### _Below is rest of original readme create by Michael (leaving it here for completness and big props for author!)_ 
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
