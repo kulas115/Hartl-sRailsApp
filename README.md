@@ -1,5 +1,21 @@
 # Ruby on Rails Tutorial sample application
 
+## This is my first rails application create with a help of Michael Hartl's tutorial. I believe it is the best and most comprehensive source of knowledge for beginners. 
+
+Do do know what to do next ? Just redo whole tutorial - you will see how much you missed first time.
+
+This application consists of some more advance parts like: testing modules, files uploader, mailer and so on.
+```
+Have a look at code.
+```
+One thing that is not deeply explained in this tutorial is markup language. This is perfect language with simple syntax used for writing documents. Github uses it, scientists used it, people are even writing books in it. Why not try yourself ?
+
+[Interactive tutorial worth completing](https://www.markdowntutorial.com/)
+
+Give it a try and you will be able to do all kind of cool things like (you can even attach images).
+
+Below is rest of original readme create by Michael (leaving it here for completness and big props for author!)
+
 This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
